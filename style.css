@@ -378,10 +378,10 @@ header{
 
 .info-img{
     position: absolute;
-    right: 100px;
-    top: 1050px;
-    /*right:-55px
-    top: -103px*/
+    /*right: 100px;
+    top: 1050px;*/
+    right:-55px;
+    top: -103px;
 }
 
 .info-img img{
