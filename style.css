@@ -330,7 +330,7 @@ header{
 
 .info-content{
     display: flex;
-    position: adsolute;
+    position: relative;
 }
 
 .info-txt{
